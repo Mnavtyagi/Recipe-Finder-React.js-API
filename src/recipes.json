@@ -1,0 +1,425 @@
+[
+    {
+      "id": "613b8b1c28a914001b7d28a1",
+      "title": "Coffee",
+      "steps": [
+        "Boil 1 cup of water in a kettle.",
+        "Add 1-2 teaspoons of coffee powder to a cup.",
+        "Pour hot water into the cup over the coffee powder.",
+        "Stir well until the coffee powder dissolves.",
+        "Add sugar and milk to taste, stir again."
+      ],
+      "image": "/coffee.jpg",
+      "description": "A simple yet refreshing cup of coffee to kickstart your day.",
+      "ingredients": [
+        "1 cup water",
+        "1-2 teaspoons coffee powder",
+        "Sugar",
+        "Milk"
+      ],
+      "cookingTime": "5 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a2",
+      "title": "Sandwich",
+      "steps": [
+        "Take 2 slices of bread and spread butter on one side of each slice.",
+        "Layer lettuce leaves, sliced tomatoes, cucumber, and cheese on one slice.",
+        "Place the other slice of bread on top, butter side down.",
+        "Press gently and cut the sandwich diagonally."
+      ],
+      "image": "/sandwich.jpg",
+      "description": "A quick and easy vegetable sandwich for a light meal.",
+      "ingredients": [
+        "2 slices of bread",
+        "Butter",
+        "Lettuce",
+        "Tomato",
+        "Cucumber",
+        "Cheese"
+      ],
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a3",
+      "title": "Pan Cake",
+      "steps": [
+        "In a mixing bowl, combine 1 cup of flour, 2 tablespoons of sugar, and 1 teaspoon of baking powder.",
+        "Gradually add 1 cup of milk while whisking to form a smooth batter.",
+        "Heat a non-stick pan over medium heat and grease lightly with butter.",
+        "Pour a ladleful of batter onto the pan and spread it in a circular motion.",
+        "Cook until bubbles form on the surface, then flip and cook the other side until golden brown."
+      ],
+      "image": "/pancake.jpg",
+      "description": "Fluffy pancakes perfect for a hearty breakfast.",
+      "ingredients": [
+        "1 cup flour",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1 cup milk",
+        "Butter"
+      ],
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a4",
+      "title": "Soya Chaap with Gravy",
+      "steps": [
+            "Soak 6-8 soya chaap sticks in water for 30 minutes, then drain and cut into pieces.",
+            "Marinate the soya chaap pieces with yogurt, ginger-garlic paste, red chili powder, turmeric powder, and garam masala for 1 hour.",
+            "In a large pan, heat 2 tablespoons of oil and sauté thinly sliced onions until golden brown.",
+            "Add 2 chopped tomatoes and cook until they become soft and mushy.",
+            "Add the marinated soya chaap to the pan and cook until the chaap is well-coated with the masala.",
+            "Add 1 cup of water and simmer the gravy on low heat for 15-20 minutes until the soya chaap is tender and the gravy thickens.",
+            "Garnish with fresh cream and chopped coriander leaves before serving hot."
+          ],
+      "image": "/chaap.webp",
+      "description": "A rich and creamy dish featuring tender soya chaap pieces cooked in a flavorful gravy.",
+      "ingredients": [
+            "6-8 soya chaap sticks",
+            "Yogurt",
+            "Ginger-garlic paste",
+            "Red chili powder",
+            "Turmeric powder",
+            "Garam masala",
+            "Onion",
+            "Tomatoes",
+            "Oil",
+            "Fresh cream",
+            "Coriander leaves"
+          ],
+      "cookingTime": "1 hour 30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a5",
+      "title": "Vegetable Kebabs",
+      "steps": [
+        "Cut 1 large potato, 1 large carrot, and 1 large bell pepper into cubes.",
+        "In a bowl, mix 2 tablespoons of yogurt, 1 tablespoon of ginger-garlic paste, 1 teaspoon of red chili powder, 1/2 teaspoon of turmeric powder, 1 teaspoon of garam masala, and salt to taste.",
+        "Marinate the vegetable cubes in the mixture for at least 1 hour in the refrigerator.",
+        "Thread the marinated vegetable cubes onto skewers.",
+        "Grill the kebabs on medium heat for 10-12 minutes, turning occasionally until cooked through and lightly charred."
+      ],
+      "image": "/kebabV.webp",
+      "description": "Flavorful and colorful vegetable kebabs made from marinated vegetables.",
+      "ingredients": [
+        "1 large potato",
+        "1 large carrot",
+        "1 large bell pepper",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Spices",
+        "Salt"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a6",
+     "title": "Veggie Burger",
+  "steps": [
+    "Boil and mash 2 medium potatoes.",
+    "In a bowl, mix the mashed potatoes with 1/2 cup of finely chopped carrots, 1/2 cup of green peas, 1/2 teaspoon of black pepper powder, 1 teaspoon of garam masala, and salt to taste.",
+    "Shape the mixture into patties and coat them with breadcrumbs.",
+    "Shallow fry the vegetable patties in hot oil until golden brown and crispy.",
+    "Slice burger buns in half and toast lightly.",
+    "Spread mayonnaise, ketchup, and mustard sauce on the toasted buns.",
+    "Layer with lettuce leaves, tomato slices, and the fried vegetable patties.",
+    "Cover with the top half of the bun and serve hot with fries."
+  ],
+  "image": "/veg_burger.jpg",
+  "description": "A crispy and flavorful veggie burger, perfect for a delicious and hearty meal.",
+  "ingredients": [
+    "2 medium potatoes",
+    "1/2 cup carrots",
+    "1/2 cup green peas",
+    "Black pepper",
+    "Garam masala",
+    "Breadcrumbs",
+    "Burger buns",
+    "Mayonnaise",
+    "Ketchup",
+    "Mustard sauce"
+  ],
+  "cookingTime": "40 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a7",
+      "title": "Chole Paneer",
+        "steps": [
+              "Heat oil in a pot and fry 1 finely chopped onion until golden brown.",
+              "Add 1 tablespoon of ginger-garlic paste and sauté for a minute.",
+              "Add 1 chopped tomato and cook until it becomes soft and mushy.",
+              "Stir in 2 teaspoons of red chili powder, 1 teaspoon of turmeric powder, 1 teaspoon of cumin powder, 1 teaspoon of garam masala, and salt to taste.",
+              "Add 1 cup of cooked chickpeas (chole) and mix well.",
+              "Add 200g of cubed paneer and gently mix it with the chickpeas.",
+              "Add 1/2 cup of water and cook on low heat until the gravy thickens and the paneer absorbs the flavors.",
+              "Garnish with chopped coriander leaves and serve hot."
+            ],
+      
+      "image": "/chole_Paneer.webp",
+      "description": "A delicious and hearty curry made with chickpea and Paneer.",
+      "ingredients": [
+        "500g Paneer",
+        "100g chickpea",
+        "1 onion",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Cumin powder",
+        "Salt",
+        "Oil"
+      ],
+      "cookingTime": "45 Minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a8",
+      "title": "Palak Paneer",
+      "steps": [
+        "Blanch 250g of spinach in boiling water for 2 minutes, then drain and puree.",
+        "Heat 2 tablespoons of oil in a pan and sauté 1 chopped onion until translucent.",
+        "Add 1 tablespoon of ginger-garlic paste and cook for a minute.",
+        "Add 1 chopped tomato, 1 teaspoon of cumin powder, 1 teaspoon of garam masala, and salt to taste. Cook until the tomato is soft.",
+        "Add the spinach puree and cook for 5 minutes.",
+        "Stir in 200g of cubed paneer and cook for another 5 minutes."
+      ],
+      "image": "/palak_paneer.jpg",
+      "description": "A creamy and nutritious dish made with spinach and paneer.",
+      "ingredients": [
+        "250g spinach",
+        "200g paneer",
+        "1 onion",
+        "1 tomato",
+        "Ginger-garlic paste",
+        "Cumin powder",
+        "Garam masala",
+        "Salt",
+        "Oil"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a9",
+      "title": "Chana Masala",
+      "steps": [
+        "Soak 1 cup of chickpeas overnight, then drain and cook in 3 cups of water until tender.",
+        "Heat 2 tablespoons of oil in a pan and sauté 1 chopped onion until golden brown.",
+        "Add 1 tablespoon of ginger-garlic paste and cook for a minute.",
+        "Add 1 chopped tomato, 1 teaspoon of turmeric powder, 1 teaspoon of coriander powder, 1 teaspoon of garam masala, and salt to taste.",
+        "Cook until the tomato is soft, then add the cooked chickpeas and 1 cup of water.",
+        "Simmer for 15 minutes, then garnish with chopped coriander leaves."
+      ],
+      "image": "/chana_masala.jpg",
+      "description": "A spicy and tangy chickpea curry that is perfect with rice or roti.",
+      "ingredients": [
+        "1 cup chickpeas",
+        "1 onion",
+        "1 tomato",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Coriander powder",
+        "Garam masala",
+        "Salt",
+        "Oil",
+        "Coriander leaves"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28aa",
+"title": "Russian Vegetable Salad",
+  "steps": [
+    "Boil 2 medium potatoes, 2 medium carrots, and 1 cup of peas until tender. Let them cool.",
+    "Peel and dice the boiled potatoes and carrots.",
+    "In a large mixing bowl, combine the diced potatoes, carrots, peas, 1/2 cup of diced pickles, and 1/2 cup of boiled and diced beets.",
+    "Add 1/2 cup of diced apples and 1/2 cup of finely chopped onions.",
+    "Season with salt and pepper to taste, and add 1 tablespoon of olive oil.",
+    "Gently mix all the ingredients together until well combined.",
+    "Garnish with chopped dill or parsley before serving."
+  ],
+  "image": "/saladR.jpg",
+  "description": "A traditional Russian salad made with a variety of boiled vegetables, perfect as a side dish.",
+  "ingredients": [
+    "2 medium potatoes",
+    "2 medium carrots",
+    "1 cup peas",
+    "1/2 cup pickles",
+    "1/2 cup boiled beets",
+    "1/2 cup apples",
+    "1/2 cup onions",
+    "Salt",
+    "Pepper",
+    "1 tablespoon olive oil",
+    "Dill or parsley for garnish"
+  ],
+  "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28b1",
+      "title": "French Fries",
+      "steps": [
+        "Peel and cut 3 large potatoes into thin strips.",
+        "Soak the potato strips in cold water for 30 minutes to remove excess starch.",
+        "Drain the potatoes and pat them dry with a kitchen towel.",
+        "Heat oil in a deep fryer or large pot to 350°F (175°C).",
+        "Fry the potatoes in batches for 4-5 minutes until they are soft but not browned. Remove and drain on paper towels.",
+        "Increase the oil temperature to 375°F (190°C).",
+        "Fry the potatoes again in batches for 2-3 minutes until they are golden brown and crispy.",
+        "Remove from oil, drain on paper towels, and immediately season with salt.",
+        "Serve hot with your favorite dipping sauce."
+      ],
+      "image": "/fries.jpg",
+      "description": "Crispy and golden French fries, perfect as a snack or side dish.",
+      "ingredients": ["3 large potatoes", "Oil for frying", "Salt"],
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ab",
+      "title": "Gulab Jamun",
+      "steps": [
+        "In a bowl, mix 1 cup of milk powder, 1/4 cup of all-purpose flour, 1/4 teaspoon of baking soda, and 2 tablespoons of ghee.",
+        "Add milk gradually to form a soft dough.",
+        "Make small balls from the dough and deep fry in hot oil until golden brown.",
+        "In another pot, heat 1 cup of sugar and 1 cup of water until the sugar dissolves and the syrup thickens slightly.",
+        "Soak the fried balls in the sugar syrup for at least 30 minutes before serving."
+      ],
+      "image": "/gulab_jamun.jpg",
+      "description": "A traditional Indian dessert made from deep-fried dough balls soaked in sweet syrup.",
+      "ingredients": [
+        "1 cup milk powder",
+        "1/4 cup all-purpose flour",
+        "1/4 tsp baking soda",
+        "2 tbsp ghee",
+        "Milk",
+        "Oil for frying",
+        "1 cup sugar",
+        "1 cup water"
+      ],
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ac",
+      "title": "Daal Makhni & Naan",
+      "steps": [
+            "Soak 1 cup of whole black lentils (urad dal) and 1/4 cup of red kidney beans (rajma) overnight.",
+            "In a large pot, cook the soaked lentils and beans with 4 cups of water, 1 teaspoon of turmeric powder, and salt to taste until they are soft and tender.",
+            "Heat butter in a pan, add 1 finely chopped onion, and sauté until golden brown.",
+            "Add 1 tablespoon of ginger-garlic paste and sauté for a minute.",
+            "Add 2 chopped tomatoes, 1 teaspoon of red chili powder, and 1 teaspoon of cumin powder. Cook until the tomatoes are soft and the masala is well-cooked.",
+            "Add the cooked lentils and beans to the pan, mix well, and simmer on low heat for 1-2 hours. Add cream and butter as needed to achieve a rich, creamy consistency.",
+            "Garnish with fresh cream and chopped coriander leaves before serving.",
+            "For Naan: Mix 2 cups of all-purpose flour, 1/2 cup of yogurt, 1 teaspoon of baking powder, and a pinch of salt to form a dough. Let it rest for 1-2 hours.",
+            "Divide the dough into small balls, roll them out, and cook on a hot griddle until golden brown. Brush with butter and serve hot with Daal Makhni."
+          ],
+      "image": "/daal-makhni.jpg",
+      "description": "A creamy and flavorful lentil dish, Daal Makhni is a classic North Indian recipe often paired with soft, fluffy Naan.",
+      "ingredients": [
+            "1 cup whole black lentils (urad dal)",
+            "1/4 cup red kidney beans (rajma)",
+            "2 onions",
+            "Ginger-garlic paste",
+            "2 tomatoes",
+            "Red chili powder",
+            "Turmeric powder",
+            "Cumin powder",
+            "Salt",
+            "Butter",
+            "Cream",
+            "Coriander leaves",
+            "All-purpose flour",
+            "Yogurt",
+            "Baking powder"
+          ],
+      "cookingTime": "4 hours"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ad",
+      "title": "Aloo Paratha",
+      "steps": [
+        "Boil and mash 2 large potatoes.",
+        "Add 1 chopped onion, 1 chopped green chili, 1 teaspoon of cumin seeds, 1 teaspoon of garam masala, and salt to taste to the mashed potatoes. Mix well.",
+        "Divide the dough into small balls and roll each ball into a small circle.",
+        "Place a spoonful of the potato mixture in the center of the dough circle and fold the edges to seal.",
+        "Roll the filled dough ball into a larger circle, being careful not to let the filling spill out.",
+        "Heat a tawa or skillet over medium heat and cook the paratha on both sides until golden brown, applying ghee or oil as needed."
+      ],
+      "image": "/aloo_paratha.jpg",
+      "description": "A traditional Pakistani flatbread stuffed with a spiced potato filling.",
+      "ingredients": [
+        "2 potatoes",
+        "1 onion",
+        "1 green chili",
+        "Cumin seeds",
+        "Garam masala",
+        "Salt",
+        "Dough",
+        "Ghee or oil"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ae",
+      "title": "Chole Bhature",
+        "steps": [
+              "Soak 1 cup of chickpeas (chole) in water overnight, then drain and cook them in a pressure cooker with 4 cups of water and 1 teaspoon of salt until they are soft.",
+              "Heat oil in a pot and fry 1 finely chopped onion until golden brown.",
+              "Add 1 tablespoon of ginger-garlic paste and sauté for a minute.",
+              "Add 1 chopped tomato and cook until it becomes soft and mushy.",
+              "Stir in 2 teaspoons of red chili powder, 1 teaspoon of turmeric powder, 1 teaspoon of cumin powder, 1 teaspoon of garam masala, and salt to taste.",
+              "Add the cooked chickpeas to the pot and mix well.",
+              "Add 1 cup of water and cook on low heat until the gravy thickens and the chickpeas absorb the flavors.",
+              "Garnish with chopped coriander leaves and serve hot with bhature.",
+              "For Bhature: Knead a dough using 2 cups of all-purpose flour, 1/2 cup of yogurt, 1 teaspoon of baking powder, and a pinch of salt. Let it rest for 1-2 hours.",
+              "Divide the dough into small balls, roll them out into circles, and deep fry in hot oil until they puff up and turn golden brown.",
+              "Serve the bhature hot with the prepared chole."
+            ],
+      "image": "/chole-bhature.jpg",
+      "description": "A popular North Indian dish consisting of spicy chickpeas (chole) served with deep-fried bread (bhature). A hearty and flavorful meal, often enjoyed for breakfast or lunch.",
+  "ingredients": [
+        "1 cup chickpeas (chole)",
+        "2 onions",
+        "1 tomato",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Cumin powder",
+        "Garam masala",
+        "Salt",
+        "Water",
+        "Coriander leaves",
+        "All-purpose flour",
+        "Yogurt",
+        "Baking powder",
+        "Oil"
+      ],
+  "cookingTime": "3 hours"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Masala Dosa",
+  "steps": [
+        "Soak 1 cup of rice and 1/2 cup of urad dal (split black gram) separately in water for 4-6 hours.",
+        "Grind the soaked rice and dal separately to a smooth batter, then mix them together with salt to taste. Let the batter ferment overnight.",
+        "For the masala filling, heat oil in a pan and fry 1 finely chopped onion until translucent.",
+        "Add 1 tablespoon of ginger-garlic paste and sauté for a minute.",
+        "Add 2 boiled and mashed potatoes, 1 teaspoon of turmeric powder, 1 teaspoon of mustard seeds, and salt to taste. Mix well and cook for a few minutes.",
+        "Heat a non-stick pan or griddle and spread a ladleful of the dosa batter in a thin, even layer.",
+        "Drizzle oil around the edges and cook until the dosa turns golden and crispy.",
+        "Place a portion of the potato masala in the center of the dosa, fold it, and serve hot with chutney and sambar."
+      ],
+  "image": "/dosa.avif",
+  "description": "A popular South Indian dish, Masala Dosa is a crispy rice crepe filled with a spicy potato mixture, served with chutney and sambar.",
+  "ingredients": [
+        "1 cup rice",
+        "1/2 cup urad dal (split black gram)",
+        "1 onion",
+        "Ginger-garlic paste",
+        "2 potatoes",
+        "Turmeric powder",
+        "Mustard seeds",
+        "Salt",
+        "Oil"
+      ],
+  "cookingTime": "12 hours (including soaking and fermentation)"
+    }
+  ]
+  
